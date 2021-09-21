@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 import scapy 
-from scapy.all import Ether,IP,UDP,BOOTP,DHCP,RanDMAC,
+from scapy.all import Ether,IP,UDP,BOOTP,DHCP,RanDMAC
 
 conf.checkIPaddr = False
 
